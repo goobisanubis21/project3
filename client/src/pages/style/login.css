@@ -1,0 +1,36 @@
+.loginDiv {
+    background-color: rgb(155, 122, 216);
+    padding-top: 120px;
+    min-height: calc(100vh);
+}
+
+.form-container {
+    width: 80%;
+    max-width: 400px;
+}
+
+.formStyle {
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    margin-top: 60px;
+}
+
+.formInput {
+    width: 300px;
+}
+
+.formLabel {
+    margin-right: 10px;
+}
+
+.title-div {
+    margin-bottom: 10px;
+}
+
+#SignUpCard{
+    width:400px;
+    height: 400px;
+    background-color: rgb(217, 197, 253);
+    border-radius: 15px;
+}
