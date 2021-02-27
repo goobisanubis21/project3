@@ -1,5 +1,5 @@
 {
-  "name": "brainfart",
+  "name": "project3",
   "version": "1.0.0",
   "description": "what if teachers couldn't delete your quizlet quizzes? this app will answer that question",
   "main": "server.js",
@@ -28,13 +28,13 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/beandrea/brainfart.git"
+    "url": "git+https://github.com/goobisanubis21/project3.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/beandrea/brainfart/issues"
+    "url": "https://github.com/goobisanubis21/project3/issues"
   },
-  "homepage": "https://github.com/beandrea/brainfart#readme"
+  "homepage": "https://github.com/goobisanubis21/project3#readme"
 }
