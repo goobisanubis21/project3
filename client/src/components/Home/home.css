@@ -25,6 +25,10 @@
     margin-bottom: 50px;
 }
 
+.welcomeLeft p {
+    color: white;
+}
+
 .button {
     width: 120px;
 }

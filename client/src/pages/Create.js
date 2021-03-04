@@ -156,9 +156,9 @@ function Create(props) {
                 <br/>
                 <button className="btn btn-primary"
                 onClick={addQuestion}>Add New Question</button>
-                <button className="btn btn-danger"
+                <Link to="/profile"><button className="btn btn-danger"
                 id="subQuizBtn"
-                onClick={submitQuiz}>Update Quiz</button>
+                onClick={submitQuiz}>Update Quiz</button></Link>
             </div>
             </div>
 
